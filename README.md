@@ -21,3 +21,14 @@ A compilation of research advice(s):
 1. [How to write a good CVPR submission](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf) by Bill Freeman, 2014
 
 1. [How to do Good Research, get it Published in SIGKDD, get it Cited (see from slide 68 onwards)](https://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf) by Eamonn Keogh, 2009
+
+## General Grad Student Advice:
+
+1. [Elements of a Successful Graduate Career](http://people.csail.mit.edu/billf/talks/10minFreeman2013.pdf) by Bill Freeman, 2013
+
+## Meta-List of Advice(s):
+This is a compilation of compilations (can we go deeper??) about similar topic(s):
+
+1. [Useful Computer Vision PhD Resources](https://github.com/hassony2/useful-computer-vision-phd-resources) by Yana Hassony
+
+1. [Good Citizen of CVPR](https://www.cc.gatech.edu/~parikh/citizenofcvpr/) organized by Devi Parikh and Dhruv Batra at CVPR18 
