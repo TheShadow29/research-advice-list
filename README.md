@@ -1,5 +1,5 @@
 # research-advice-list
-A compilation of research advice(s):
+A compilation of research advice(s) for doing good research and writing good papers. 
 
 ## Doing Research:
 1. [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) by Richard Hamming, 1986
@@ -17,10 +17,18 @@ A compilation of research advice(s):
 
 
 ## Writing Research Papers
+1. [How NOT to review a paper The tools and techniques of the adversarial reviewer](https://sigmodrecord.org/publications/sigmodRecord/0812/p100.open.cormode.pdf) by Graham Cormode, 2008
+
+1. [How to do Good Research, get it Published in SIGKDD, get it Cited (see from slide 68 onwards)](https://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf) by Eamonn Keogh, 2009
 
 1. [How to write a good CVPR submission](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf) by Bill Freeman, 2014
 
-1. [How to do Good Research, get it Published in SIGKDD, get it Cited (see from slide 68 onwards)](https://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf) by Eamonn Keogh, 2009
+1. [How to write a great research paper, Seven simple suggestions](https://www.cis.upenn.edu/~sweirich/icfp-plmw15/slides/peyton-jones.pdf) by Simon Peyton Jones, 2015
+
+## Presenting Research Papers:
+1. [How to give a great research talk](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/How-to-give-a-great-research-talk.pdf) by Simon Peyton Jones, 2016
+
+1. [Tips for preparing a clear talk](https://www.cc.gatech.edu/~parikh/citizenofcvpr/static/slides/grauman_preparing_clear_talks.pdf) by Kristen Grauman, 2018
 
 ## General Grad Student Advice:
 
