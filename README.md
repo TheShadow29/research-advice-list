@@ -1,6 +1,8 @@
 # research-advice-list
 A compilation of research advice(s) for doing good research and writing good papers. 
 
+Contributions via issues and pull requests are welcome.
+
 ## Doing Research:
 1. [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) by Richard Hamming, 1986
 
@@ -34,8 +36,8 @@ A compilation of research advice(s) for doing good research and writing good pap
 
 1. [Elements of a Successful Graduate Career](http://people.csail.mit.edu/billf/talks/10minFreeman2013.pdf) by Bill Freeman, 2013
 
-## Meta-List of Advice(s):
-This is a compilation of compilations (can we go deeper??) about similar topic(s):
+## Meta-List:
+This is a compilation of compilations (can we go deeper?) about similar topics:
 
 1. [Useful Computer Vision PhD Resources](https://github.com/hassony2/useful-computer-vision-phd-resources) by Yana Hassony
 
