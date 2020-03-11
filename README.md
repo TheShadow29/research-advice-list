@@ -36,6 +36,8 @@ Contributions via issues and pull requests are welcome.
 
 1. [Elements of a Successful Graduate Career](http://people.csail.mit.edu/billf/talks/10minFreeman2013.pdf) by Bill Freeman, 2013
 
+1. [Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/) by Andrej Karpathy, 2016
+
 ## Meta-List:
 This is a compilation of compilations (can we go deeper?) about similar topics:
 
