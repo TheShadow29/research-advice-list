@@ -47,4 +47,6 @@ This is a compilation of compilations (can we go deeper?) about similar topics:
 
 1. [Useful Computer Vision PhD Resources](https://github.com/hassony2/useful-computer-vision-phd-resources) by Yana Hassony
 
+1. [Grad School Resources](http://martiansideofthemoon.github.io/2018/05/29/grad-resources.html) by Kalpesh Krishna
+
 1. [Good Citizen of CVPR](https://www.cc.gatech.edu/~parikh/citizenofcvpr/) organized by Devi Parikh and Dhruv Batra at CVPR18 
