@@ -27,6 +27,10 @@ Contributions via issues and pull requests are welcome.
 
 1. [How to write a great research paper, Seven simple suggestions](https://www.cis.upenn.edu/~sweirich/icfp-plmw15/slides/peyton-jones.pdf) by Simon Peyton Jones, 2015
 
+## LaTeX Writing Tips
+
+1. [Style](http://users.umiacs.umd.edu/~jbg/static/style.html) by Jordan Boyd-Graber, 2020
+
 ## Presenting Research Papers:
 1. [How to give a great research talk](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/How-to-give-a-great-research-talk.pdf) by Simon Peyton Jones, 2016
 
