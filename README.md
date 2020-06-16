@@ -42,6 +42,10 @@ Contributions via issues and pull requests are welcome.
 
 1. [Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/) by Andrej Karpathy, 2016
 
+## Reviewing Paper:
+
+1. [How to be a Good Reviewer](https://docs.google.com/presentation/d/1vMBzagGSAGWptI_8v_brlOdgNjFDtmAGUY9aa3X5h1I/edit#slide=id.p) by Jordi Pont-Tuset, 2020
+
 ## Meta-List:
 This is a compilation of compilations (can we go deeper?) about similar topics:
 
