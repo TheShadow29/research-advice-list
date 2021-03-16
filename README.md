@@ -27,6 +27,8 @@ Contributions via issues and pull requests are welcome.
 
 1. [How to write a great research paper, Seven simple suggestions](https://www.cis.upenn.edu/~sweirich/icfp-plmw15/slides/peyton-jones.pdf) by Simon Peyton Jones, 2015
 
+1. [How to write introduction of a research paper in three easy steps](https://docs.google.com/presentation/d/1PZj0Sev2yjDu9NNr96S_wwjKCgIDhGmLjW1vtQpDhlk/edit#slide=id.p) by Kate Saenko, 2021
+
 ## LaTeX Writing Tips
 
 1. [Style](http://users.umiacs.umd.edu/~jbg/static/style.html) by Jordan Boyd-Graber, 2020
